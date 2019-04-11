@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#up_left{
+	background-color: red;
+	float: left;
+} 
+
+#up_right{
+	background-color: yellow;
+	float: right;
+}
+
+#down_left{
+	clear: both;
+	background-color: green;
+	float: left;
+	margin: 500px 0px 0px 0px;
+}
+
+#down_right{
+	clear: both;
+ 	background-color: purple;
+ 	float: right;
+}

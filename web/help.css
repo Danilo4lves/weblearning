@@ -1,0 +1,7 @@
+*{
+	font-family: Arial;
+}
+
+table, th, td{
+	border: 1px solid black;
+}
