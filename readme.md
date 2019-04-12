@@ -1,1 +1,2 @@
-#This repository holds all the files I've been making and using regarding web development.
+# Web Development Learning
+Inside this GitHub repository you'll find some examples of what I've been learning and doing regarding web development.
