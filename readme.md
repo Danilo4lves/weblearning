@@ -11,22 +11,22 @@ Inside the web paste there are some html and css projects that I did alongside t
 ## exercicios-js paste
 This paste holds the exercises and notes I've been doing following the second course.
 ### Structure of the paste
-As much of Udemy's courses, they are organized in sections and inside these sectons there are the classes. For example: 
+As much of Udemy's courses, they are organized in sections and inside these sections there are the lessons. For example: 
 ```
 Section 1 {
-	Class 1
-	Class 2
-	Class 3
-	Class 4
+	Lesson 1
+	Lesson 2
+	Lesson 3
+	Lesson 4
 	...
 }
 ...
 ```
-So, it's easy to notice that I'm putting the name of the files according to the sections and classes. Let's take as an example the fundamentals folder, it's name is
+So, it's easy to notice that I'm putting the name of the files according to the sections and lessons. Let's take as an example the fundamentals folder, it's name is
 ```
 section3_fundamentals
 ```
-Inside this folder, all notes/exercises about each class is explicitly told in the name of the file, as showed below:
+Inside this folder, the note/exercise about a certain lesson is explicitly told in the name of the file, for example, the lesson 50 is as showed below:
 ```
 50errorTreatment.js
 ```
