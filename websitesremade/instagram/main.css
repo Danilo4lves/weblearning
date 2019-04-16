@@ -19,14 +19,33 @@ body {
 
 /*---------------body------------*/
 .formBox {
-    height: 600px;
+    height: 500px;
     width: 330px;
     background: transparent;
     border: 10px;
     border-radius: 10px;
     text-align: center;
-    box-shadow: 1px 1px 9px #555555;
+    box-shadow: 1px 1px 7px #555555;
     padding: 20px 0px 0px 0px;
+}
+
+.logInbox {
+    margin-top: 10px;
+    height: 60px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 7px #555555;
+}
+
+.logInbox p {
+    padding: 20px 0px 0px 0px;
+    font-size: 14px;
+    color: #555555;
+}
+
+.logInbox a {
+    text-decoration: none;
+    color: #3897f0;
 }
 
 .formBox * {
@@ -50,6 +69,11 @@ body {
     background-color: transparent;
 }
 
+.formBox h1:first-of-type {
+    padding: 0px 0px 0px 30px;
+    width: 80%;
+}
+
 .btnFacebooktotal {
     border-radius: 6px;
     box-shadow: 1px 1px 5px #111111;
@@ -63,8 +87,14 @@ body {
     margin-top: 30px;
 }
 
+.signUpInfo span {
+    font-weight: 800;
+}
+
 .signUpInfo p {
-    padding: 20px 0px;
+    padding: 20px 0px 0px 50px;
+    font-size: 15px;
+    width: 70%;
 }
 
 .btnSignUp {
@@ -77,6 +107,10 @@ body {
     padding: 5px 10px;
 }
 
+.btnSignUp:hover {
+    background-color: rgba(100, 200, 50, 1);
+}
+
 .btnFacebooktotal a {
     text-decoration: none;
     background-color: transparent;
@@ -85,9 +119,7 @@ body {
 }
 
 .btnFacebooktotal:hover {
-    background-color: blue;
-    color: white;
-
+    background-color: rgba(100, 200, 50, 1);
 }
 
 .bodyimg {
@@ -100,4 +132,42 @@ body {
 
 .bodytotal {
     margin: 0px 251px;
+}
+
+.getApp {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.getApp img {
+    padding: 15px 0px 0px 0px;
+}
+
+/*---------------footer---------------*/
+footer {
+    clear: both;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 13px;
+    padding: 0px 5px;
+    font-weight: 800;
+}
+
+.footer_menu {
+    padding: 35px 0px 0px 160px;
+}
+
+footer p {
+    margin-left: 1000px;
+    margin-top: -15px;
+    font-size: 13px;
+    color: #555555;
+}
+
+footer h3 {
+    text-align: center;
+    margin-right: 190px;
+    color: #555555;
 }
