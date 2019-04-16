@@ -16,6 +16,9 @@ I remake some websites to test my skills and learn more, you can check them out 
 #### 1.1.1.2 Remade Version
 ![nodejs remade](images_readme/nodejsremade.png)
 
+## 1.1.2 Instagram Website (instagram.com)
+Still on progress...
+
 ## 1.2 web folder 
 Inside the web folder there are some html and css projects that I did alongside the first course.
 
