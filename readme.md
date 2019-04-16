@@ -9,7 +9,12 @@ Further, in a conversation I figured out a course, better and that teachs about 
 I remake some websites to test my skills and learn more, you can check them out inside this folder.
 
 ### 1.1.1 NodeJS Website (nodejs.org)
-![nodejs original](images_readme/nodejsoriginal)
+
+#### 1.1.1.1 Original Version
+![nodejs original](images_readme/nodejsoriginal.png)
+
+#### 1.1.1.2 Remade Version
+![nodejs remade](images_readme/nodejsremade.png)
 
 ## 1.2 web folder 
 Inside the web folder there are some html and css projects that I did alongside the first course.
