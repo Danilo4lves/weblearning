@@ -5,12 +5,18 @@ Inside this GitHub repository you'll find some examples of what I've been learni
 I started out learning web development a little while ago using a course on Udemy named [Web Design: Construa Sites com PHP, HTML, CSS e JavaScript](https://www.udemy.com/programacao-web-para-divulgacao-cientifica/) which now I have my progress on 45%.
 Further, in a conversation I figured out a course, better and that teachs about real modern web development, so, that's where I'm at now. The course is [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://www.udemy.com/curso-web/).
 
-## 1.1 web folder 
+## 1.1 websitesremade folder
+I remake some websites to test my skills and learn more, you can check them out inside this folder.
+
+### 1.1.1 NodeJS Website (nodejs.org)
+![nodejs original](images_readme/nodejsoriginal)
+
+## 1.2 web folder 
 Inside the web folder there are some html and css projects that I did alongside the first course.
 
-## 1.2 exercicios-js folder 
+## 1.3 exercicios-js folder 
 This folder holds the exercises and notes I've been doing following the second course.
-### 1.2.1 Structure
+### 1.3.1 Structure
 As much of Udemy's courses, they are organized in sections and inside these sections there are the lessons. For example: 
 ```
 Section 1 {
