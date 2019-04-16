@@ -9,7 +9,6 @@ Further, in a conversation I figured out a course, better and that teachs about 
 I remake some websites to test my skills and learn more, you can check them out inside this folder.
 
 ### 1.1.1 NodeJS Website (nodejs.org)
-
 #### 1.1.1.1 Original Version
 ![nodejs original](images_readme/nodejsoriginal.png)
 
@@ -17,7 +16,11 @@ I remake some websites to test my skills and learn more, you can check them out 
 ![nodejs remade](images_readme/nodejsremade.png)
 
 ## 1.1.2 Instagram Website (instagram.com)
-Still on progress...
+### 1.1.2.1 Original Version
+![instagram original](images_readme/instagramoriginal.png)
+
+### 1.1.2.2 Remade Version
+![instagram remade](images_readme/instagramremade.png)
 
 ## 1.2 web folder 
 Inside the web folder there are some html and css projects that I did alongside the first course.
