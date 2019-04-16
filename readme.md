@@ -19,7 +19,7 @@ I remake some websites to test my skills and learn more, you can check them out 
 ## 1.2 web folder 
 Inside the web folder there are some html and css projects that I did alongside the first course.
 
-## 1.3 exercicios-js folder 
+## 1.3 course-webmoderno/exercicios-js folder 
 This folder holds the exercises and notes I've been doing following the second course.
 ### 1.3.1 Structure
 As much of Udemy's courses, they are organized in sections and inside these sections there are the lessons. For example: 
