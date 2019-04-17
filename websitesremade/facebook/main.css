@@ -1,0 +1,37 @@
+/*-----------------global---------------*/
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-size: 100%;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+/*----------------nav----------------*/
+nav {
+    height: 80px;
+    background-color: #3b5998;
+}
+
+nav img {
+    height: 40%;
+}
+
+nav form {
+    text-align: left;
+}
+
+.nav_form1 {
+    padding: 0px 0px 0px 900px;
+}
+
+.nav_form2 {
+    padding: 0px 0px 0px 900px;
+}
