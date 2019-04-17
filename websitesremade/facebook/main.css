@@ -18,6 +18,7 @@ body {
 nav {
     height: 80px;
     background-color: #3b5998;
+    color: white;
 }
 
 nav img {
@@ -26,12 +27,38 @@ nav img {
 
 nav form {
     text-align: left;
+    margin-top: -20px;
+    width: 53%;
+}
+
+nav input {
+    width: 170px;
+    height: 20px;
+    border: 1px solid #111111;
+}
+
+.btnLogIndiv {
+    clear: both;
+    margin-left: 900px;
+}
+
+.forgotAccount {
+
+}
+
+.btnLogIn {
+    margin-top: -50px;
+    margin-left: 200px;
 }
 
 .nav_form1 {
     padding: 0px 0px 0px 900px;
+    margin-top: -20px;
+    float: left;
 }
 
 .nav_form2 {
     padding: 0px 0px 0px 900px;
+    float: right;
+    margin-top: -48px;
 }
