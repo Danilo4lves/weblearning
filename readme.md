@@ -23,6 +23,7 @@ I remake/make some websites to test my skills and learn more, you can check them
 ![instagram remade](images_readme/instagramremade.png)
 
 ### 1.1.3 Rock, Paper & Scissors Game
+Fully functional game.
 ![rock, paper and scissors game](images_readme/rockpaperscissorsgame.png)
 
 ### 1.1.4 Facebook Website (facebook.com)
