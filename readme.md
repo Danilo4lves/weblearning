@@ -6,7 +6,7 @@ I started out learning web development a little while ago using a course on Udem
 Further, in a conversation I figured out a course, better and that teachs about real modern web development, so, that's where I'm at now. The course is [Curso Web Moderno com JavaScript 2019! COMPLETO + Projetos](https://www.udemy.com/curso-web/).
 
 ## 1.1 websitesremade folder
-I remake some websites to test my skills and learn more, you can check them out inside this folder.
+I remake/make some websites to test my skills and learn more, you can check them out inside this folder.
 
 ### 1.1.1 NodeJS Website (nodejs.org)
 #### 1.1.1.1 Original Version
@@ -15,14 +15,18 @@ I remake some websites to test my skills and learn more, you can check them out 
 #### 1.1.1.2 Remade Version
 ![nodejs remade](images_readme/nodejsremade.png)
 
-## 1.1.2 Instagram Website (instagram.com)
-### 1.1.2.1 Original Version
+### 1.1.2 Instagram Website (instagram.com)
+#### 1.1.2.1 Original Version
 ![instagram original](images_readme/instagramoriginal.png)
 
-### 1.1.2.2 Remade Version
+#### 1.1.2.2 Remade Version
 ![instagram remade](images_readme/instagramremade.png)
 
-## 1.1.3 Facebook Website (facebook.com)
+### 1.1.3 Rock, Paper & Scissors Game
+Game fully functional.
+![rock, paper and scissors game](images_readme/rockpaperscissorsgame.png)
+
+### 1.1.4 Facebook Website (facebook.com)
 Still in development.
 
 ## 1.2 web folder 
