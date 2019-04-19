@@ -85,3 +85,19 @@ body {
     bottom: 0;
     right: 60px;
 }
+
+.reset-button {
+    background-color: #FF0000;
+    color: white;
+    border-radius: 10px;
+    width: 15%;
+    margin: 20px auto;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.reset-button:hover {
+    background-color: #FF5433;
+    color: black;
+    cursor: pointer;
+}

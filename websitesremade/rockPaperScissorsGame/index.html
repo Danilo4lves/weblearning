@@ -13,22 +13,22 @@
     </header>
     <div class="body">
         <div class="choices">
-            <div class="choice" id="rock">
+            <div class="choice" id="rock" onclick="clickRock()">
                 <img src="images/rock.png">
                 <p>Rock</p>
             </div>
-            <div class="choice" id="paper">
+            <div class="choice" id="paper" onclick="clickPaper()">
                 <img src="images/paper.png">
                 <p>Paper</p>
             </div>
-            <div class="choice" id="scissors">
+            <div class="choice" id="scissors" onclick="clickScissors()">
                 <img src="images/scissors.png">
                 <p>Scissors</p>
             </div>
         </div>
         <div class="score-board">
             <div class="score-board-number">
-                <span class="user-score">0</span>:<span class="computer-score">0</span>
+                <span id="user-score">0</span>:<span id="computer-score">0</span>
             </div>
             <div class="score-board-user">
                 <p>User</p>
@@ -37,7 +37,11 @@
                 <p>Comp</p>
             </div>
         </div>
+        <div class="reset-button" onclick="clickReset()">
+            <p>RESET SCORE</p>
+        </div>
     </div>
+    <script src="app.js" charset="utf-8"></script>
 </body>
 
 </html>
