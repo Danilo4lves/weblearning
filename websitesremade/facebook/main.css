@@ -89,7 +89,6 @@ nav img {
 .body {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 20%;
     padding: 2% 10%;
     background: #EDF0F5;
 }
@@ -98,6 +97,7 @@ nav img {
 .body-about {
     font-size: 10.5px;
     text-align: left;
+    padding: 50px 0px;
 }
 
 .body-about span{
@@ -112,7 +112,7 @@ nav img {
 .about {
     display: flex;
     color: gray;
-    padding: 15px;
+    padding: 15px 0px;
 }
 
 .about h2 {
@@ -122,12 +122,78 @@ nav img {
 /*------body right side------*/
 .signup {
     color: gray;
+    margin-left: 100px;
+    text-align: left;
 }
 
-.signup form {
-}
-
-.signup h1{
-    font-size: 35px;
+.signup h1 {
+    font-size: 37px;
     color: #333333;
+}
+
+.signup h5 {
+    color: #333333;
+    padding: 8px 0px;
+    font-size: 18px;
+    font-weight: 1;
+}
+
+.signup input {
+    border: 1px solid #CCCCCC;
+    border-radius: 6px;
+    height: 37px;
+    margin: 5px 0px;
+    font-size: 18px;
+}
+
+.nameform {
+    display: flex;
+}
+
+.nameform input {
+    width: 180px;
+}
+
+.nameform input:last-child {
+    margin-left: 10px;
+}
+
+.restform {
+    width: 372px;
+}
+
+.signup h2 {
+    color: #333333;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 17px 0px 0px 0px;
+}
+
+.signup p {
+    font-size: 11px;
+    width: 75%;
+    color: gray;
+}
+
+.signup a {
+    text-decoration: none;
+}
+
+.birthdate a {
+    font-size: 11px;
+    text-decoration: none;
+}
+
+.radio-input {
+    display: flex;
+    color: #333333;
+}
+
+.radio-input input {
+    margin: 0px 10px;
+}
+
+.radio-input h3 {
+    margin-top: 7px;
+    font-weight: 1;
 }
