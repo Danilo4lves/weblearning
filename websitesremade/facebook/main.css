@@ -1,64 +1,133 @@
-/*-----------------global---------------*/
 * {
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    outline: 0;
-    font-size: 100%;
 }
 
-html {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-body {
-    width: 100%;
-}
-
-/*----------------nav----------------*/
+/*-------NAV--------*/
 nav {
-    height: 80px;
-    background-color: #3b5998;
-    color: white;
+    background-color: #3B5998;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    border-bottom: 1px solid #111111;
 }
 
 nav img {
-    height: 40%;
+    width: 27%;
+    margin-left: 150px;
+    margin: 15px 0px 0px 150px;
 }
 
-nav form {
+.nav-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.nav-form1 {
     text-align: left;
-    margin-top: -20px;
-    width: 53%;
+    color: white;
+    font-size: 13px;
+    margin-left: 150px;
 }
 
-nav input {
-    width: 170px;
-    height: 20px;
+.nav-form1 p {
+    padding: 5px 0px;
+}
+
+.nav-form1 input {
+    border-radius: 0;
     border: 1px solid #111111;
+    height: 20px;
+    width: 150px;
 }
 
-.btnLogIndiv {
-    clear: both;
-    margin-left: 900px;
+.nav-form2 {
+    text-align: left;
+    color: white;
+    font-size: 13px;
 }
 
-.forgotAccount {
-
+.nav-form2 p {
+    padding: 5px 0px;
 }
 
-.btnLogIn {
-    margin-top: -50px;
-    margin-left: 200px;
+.nav-form2 input {
+    border-radius: 0;
+    border: 1px solid #111111;
+    height: 20px;
+    width: 150px;
 }
 
-.nav_form1 {
-    padding: 0px 0px 0px 900px;
-    margin-top: -20px;
-    float: left;
+.login-btn {
+    text-decoration: none;
+    background: #585ABB;
+    border: 1px solid #182554;
+    border-radius: 2px;
+    color: white;
+    padding: 4px;
+    font-size: 12.3px;
+    font-weight: bold;
+    margin-left: 10px;
 }
 
-.nav_form2 {
-    padding: 0px 0px 0px 900px;
-    float: right;
-    margin-top: -48px;
+.login-btn:hover {
+    background: #355899;
+}
+
+.forgot-btn {
+    text-decoration: none;
+    font-size: 13px;
+    color: whitesmoke;
+}
+
+.forgot-btn:hover {
+    text-decoration: underline;
+}
+
+/*------BODY-------*/
+.body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20%;
+    padding: 2% 10%;
+    background: #EDF0F5;
+}
+
+/*------body left side------*/
+.body-about {
+    font-size: 10.5px;
+    text-align: left;
+}
+
+.body-about span{
+    color: #333333;
+}
+
+.body-about h1 {
+    font-size: 27px;
+    color: #333333;
+}
+
+.about {
+    display: flex;
+    color: gray;
+    padding: 15px;
+}
+
+.about h2 {
+    margin: 18px 0px 0px 10px;
+}
+
+/*------body right side------*/
+.signup {
+    color: gray;
+}
+
+.signup form {
+}
+
+.signup h1{
+    font-size: 35px;
+    color: #333333;
 }
