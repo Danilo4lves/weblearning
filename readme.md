@@ -27,7 +27,11 @@ Fully functional game.
 ![rock paper and scissors game](images_readme/rockpaperscissorsgame.png)
 
 ### 1.1.4 Facebook Website (facebook.com)
-Still in development.
+#### 1.1.4.1 Original Version
+![facebook original](images_readme/facebook-original.png)
+
+#### 1.1.4.2 Remade Version
+![facebook remade](images_readme/facebook-remade.png)
 
 ## 1.2 web folder 
 Inside the web folder there are some html and css projects that I did alongside the first course.
