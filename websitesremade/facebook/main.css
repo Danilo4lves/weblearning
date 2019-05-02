@@ -173,10 +173,15 @@ nav img {
     font-size: 11px;
     width: 75%;
     color: gray;
+    padding: 10px 0px 0px 0px;
 }
 
 .signup a {
     text-decoration: none;
+}
+
+.signup a:hover {
+    text-decoration: underline;
 }
 
 .birthdate a {
@@ -196,4 +201,44 @@ nav img {
 .radio-input h3 {
     margin-top: 7px;
     font-weight: 1;
+}
+
+.signup-btn {
+    background-color: #669F52;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #333333;
+    box-shadow: 1px 1px 1px #99D97E;
+    padding: 8px 60px;
+    font-size: 19px;
+    text-shadow: 1px 1px 1px #666666;
+}
+
+.signup-btn-div a:hover {
+    text-decoration: none;
+    background-color: #88AF74;
+}
+
+.signup-btn-div {
+    padding: 30px 0px 0px 0px;
+}
+
+.signup h4 {
+    padding: 30px 0px 0px 0px;
+    font-size: 15px;
+}
+
+.signup h4 a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/*------FOOTER------*/
+footer {
+    background-color: white;
+    height: 60px;
+    text-align: center;
+    border-top: 1px solid #CCCCCC;
+    padding: 20px 0px 0px 0px;
 }
